@@ -1,11 +1,11 @@
 {
-  "name": "com.wooga.injection",
+  "name": "com.synith.injection",
   "version": "0.0.1",
-  "displayName": "Wooga Injection",
+  "displayName": "Simple Injection",
   "description": "Injection system for Unity",
   "unity": "2021.3",
   "author": {
-    "name": "Wooga",
+    "name": "",
     "email": "",
     "url": ""
   },

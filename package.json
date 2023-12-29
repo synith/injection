@@ -5,9 +5,9 @@
   "description": "Injection system for Unity",
   "unity": "2021.3",
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Synith",
+    "email": "jordan@synith.dev",
+    "url": "https://synith.dev"
   },
   "dependencies": {
   }

@@ -1,0 +1,14 @@
+{
+  "name": "com.wooga.injection",
+  "version": "0.0.1",
+  "displayName": "Wooga Injection",
+  "description": "Injection system for Unity",
+  "unity": "2021.3",
+  "author": {
+    "name": "Wooga",
+    "email": "",
+    "url": ""
+  },
+  "dependencies": {
+  }
+}
